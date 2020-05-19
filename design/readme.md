@@ -1,4 +1,4 @@
-All basic design files to get started are uploaded here
+All basic design files to get started are uploaded here. A Fusion 360 model of the construction of one side is located here (.f3d) with some 2D template exports of the pieces (.dxf) along with a complete project laser cut template (.svg).
 
 #### Design for 5mm thick material - 
 
