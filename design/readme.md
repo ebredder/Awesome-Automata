@@ -4,7 +4,7 @@ All basic design files to get started are uploaded here. A Fusion 360 model of t
 
 3 Cam profiles: Eccentric, Pear, Snail
 
-4x Side Supports for frame
+4x Side Supports for frame  
 2x Center Support for frame
 
 1x Handle for crank mechanism
