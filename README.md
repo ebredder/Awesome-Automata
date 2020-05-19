@@ -1,7 +1,7 @@
 # Awesome-Automata
 Create large group automata for events and group projects to learn basic mechanisms.
 
-!(https://github.com/ebredder/Awesome-Automata/raw/master/pics/CADmodel.PNG)
+![CAD](https://github.com/ebredder/Awesome-Automata/raw/master/pics/CADmodel.PNG)
 
 Materials Required:
 1/2" ID Black Iron Pipe (length of your choosing)
