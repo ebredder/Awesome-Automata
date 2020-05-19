@@ -5,7 +5,7 @@ Create large group automata for events and group projects to learn basic mechani
 
 #### Materials Required:  
 + 1/2" ID Black Iron Pipe (length of your choosing)  
-+ 6" Wide Board  
++ 6" (5.5" actual) Wide Board  
 + Wood Glue  
 + 5/8" Dowel Rods  
 + 1 1/4" #6 Screws  
