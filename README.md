@@ -3,7 +3,7 @@ Create large group automata for events and group projects to learn basic mechani
 
 ![CAD](https://github.com/ebredder/Awesome-Automata/raw/master/pics/CADmodel.PNG)
 
-### Materials Required:  
+#### Materials Required:  
 + 1/2" ID Black Iron Pipe (length of your choosing)  
 + 6" Wide Board  
 + Wood Glue  
@@ -19,3 +19,5 @@ Create large group automata for events and group projects to learn basic mechani
 + Circular Saw/Table Saw  
 
 The sides can be made using a laser cutter, CNC Router, or even just printing the 1:1 templates and cutting with a bandsaw or jigsaw works too!
+
+![project](https://github.com/ebredder/Awesome-Automata/raw/master/pics/IMG_20191008_095239.jpg)
