@@ -14,6 +14,7 @@ Create large group automata for events and group projects to learn basic mechani
 + Hacksaw  
 + Drill/Driver  
 + Screwdriver  
++ Metal File  
 + Sandpaper  
 + Crosscut Saw  
 + Circular Saw/Table Saw  
