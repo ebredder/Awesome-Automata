@@ -9,6 +9,7 @@ Create large group automata for events and group projects to learn basic mechani
 + Wood Glue  
 + 5/8" Dowel Rods  
 + 1 1/4" #6 Screws  
++ 3/8" Bolt/Nut
 
 #### Minimum Tools Required:  
 + Hacksaw  
