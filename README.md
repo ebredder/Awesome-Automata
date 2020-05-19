@@ -18,6 +18,12 @@ Create large group automata for events and group projects to learn basic mechani
 + Crosscut Saw  
 + Circular Saw/Table Saw  
 
+#### Optional Materials
++ Paint Supplies
++ Hot Glue/CA Glue
++ Foam Board, Craft Supplies, etc...
++ Paste Wax for lubrication
+
 The sides can be made using a laser cutter, CNC Router, or even just printing the 1:1 templates and cutting with a bandsaw or jigsaw works too!
 
 ![project](https://github.com/ebredder/Awesome-Automata/raw/master/pics/IMG_20191008_095239.jpg)
