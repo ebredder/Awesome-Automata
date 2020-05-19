@@ -1,5 +1,7 @@
 All basic design files to get started are uploaded here. A Fusion 360 model of the construction of one side is located here (.f3d) with some 2D template exports of the pieces (.dxf) along with a complete project laser cut template (.svg).
 
+![anim](https://github.com/ebredder/Awesome-Automata/raw/master/pics/AwesomeAutomataAnim.gif)
+
 #### Design for 5mm thick material - 
 
 3 Cam profiles: Eccentric, Pear, Snail
